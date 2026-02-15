@@ -114,3 +114,27 @@ nav a:hover {
   transform:translateY(-8px);
   background:#1a2035;
 }
+body{
+    background:#0b0e11;
+    color:white;
+    font-family:Arial;
+    padding:40px;
+}
+
+input, select{
+    display:block;
+    margin:10px 0;
+    padding:10px;
+    width:250px;
+}
+
+button{
+    padding:10px 20px;
+    background:#fcd535;
+    border:none;
+    cursor:pointer;
+}
+
+a{
+    color:#fcd535;
+}
